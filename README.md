@@ -1,5 +1,4 @@
-# yttsui-connect.ust.hk
-Machine Learning Assignment 1
+#Machine Learning Assignment 1
 Usage
 The three tasks have been implemented on separate jupyter notebooks in Anaconda environment with Python 3.6.
 
